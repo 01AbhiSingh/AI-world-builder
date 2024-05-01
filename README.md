@@ -45,5 +45,3 @@ This project is an AI-powered World Builder that leverages the Gemini AI model t
 - [Abhishek Singh](link to your profile)
 
 ---
-
-Feel free to customize the content according to your project's specifics. This README.md file should give users a clear understanding of what your project is about and how to use it.
