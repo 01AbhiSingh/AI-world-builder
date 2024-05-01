@@ -10,7 +10,7 @@ This project is an AI-powered World Builder that leverages the Gemini AI model t
 
 - **World Generation:** Enter a world concept, and the AI generates descriptions for geographical features, flora and fauna, and natural resources.
 - **Cultural Tapestry:** Define a societal structure, and the AI generates descriptions for customs, traditions, religions, and rudimentary language reflecting that structure.
-
+- **Character Generation:** Generate new characters on the basis of the previous information generated.
 ## Usage
 
 1. **Install Dependencies:**
